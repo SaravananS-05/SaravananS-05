@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/saravanan-senthilkumar-4829b2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanan senthilkumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saravanan-senthilkumar-4829b2308/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByukR0I6aSzqys3TQCYTwgA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanan senthilkumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saravanan32005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saravanan32005" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22csr180_sar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22csr180_sar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/mCmofI2YI6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvanan" height="30" width="40" /></a>
